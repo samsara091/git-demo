@@ -1,0 +1,5 @@
+I first forked the repo from purpleshoelace
+Then I cloned the repo to my computer.
+I added my name to the index.html file
+With this I added,committed, and pushed to my forked copy of the repo.
+I then did a pull request and am not waiting fervently.

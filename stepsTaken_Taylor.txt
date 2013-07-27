@@ -1,0 +1,5 @@
+1. Forked the repo
+2. Cloned the repo 
+3. Modified the index.html file
+4. added, committed, and pushed my forked copy
+5. Pull request
